@@ -1,0 +1,5 @@
+{
+  "name": "Creative Prompt Engineer",
+  "description": "An advanced dashboard to analyze images, generate and refine detailed text-to-image prompts, edit images with text commands, and generate new visuals with AI. Includes an integrated AI chat for assistance.",
+  "requestFramePermissions": []
+}
